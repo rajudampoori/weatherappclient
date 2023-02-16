@@ -1,0 +1,91 @@
+.whole-container {
+    display: flex;
+    flex-direction: column;
+    background-color: grey;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container input {
+    margin-top: 30px;
+    width: 30vw;
+    height: 20px;
+    padding: 5px;
+    border: none;
+    outline: none;
+}
+
+.whole-container .container .fetchapi-button {
+    margin-top: 30px;
+    height: 20px;
+    padding: 5px;
+    border: none;
+    outline: non
+}
+
+.celcius {
+    color: white;
+}
+
+.fahreinheit {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.fahreinheit button {
+    color: white;
+    background-color: rgba(0, 255, 0, 0.288);
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+
+.addingcountry {
+    color: white;
+}
+
+.addingcountry button {
+    color: white;
+    background-color: rgba(0, 255, 0, 0.288);
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+
+.favorite-countries {
+    background-color: rgba(0, 255, 0, 0.288);
+
+    color: white;
+    margin-top: 5px;
+    width: 30vw;
+    margin: auto;
+}
+
+.details {
+    visibility: hidden;
+}
+
+.btn {
+    color: white;
+    background-color: rgba(20, 19, 20, 0.493);
+    border: none;
+    outline: none;
+    padding: 10px;
+}
+
+.favorite-countries-home {
+    background-color: black;
+    color: white;
+    width: 50vw;
+    margin: auto;
+    padding: 2px;
+    margin-top: 2px;
+}
+
+.home-container {
+    background-color: gray;
+    width: 95vw;
+    margin: auto;
+    padding: 3px;
+    height: 100vh;
+}
